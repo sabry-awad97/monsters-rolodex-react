@@ -1,2 +1,2 @@
 # monsters-rolodex-react
-Open [sabrified-monsters-rolodex](sabrified-monsters-rolodex) to see the results.
+Open [https://sabrified-monsters-rolodex.netlify.app](https://sabrified-monsters-rolodex.netlify.app) to see the results.
